@@ -1,0 +1,14 @@
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+
+1. Create canvas context
+2. Create and draw our ball (circle) -> color, shape, position
+3. Create and draw the paddle (properties and draw onto the canvas)
+4. Create bricks (create and array in another array - foreach loop - (props: visible))
+5. Draw the score if a brick is broken
+6. Add update() - Animate we will be redrawing the canvas - requestAnimationFRame(callback)
+7. Move the paddle
+8. Keyboard event handlers to move paddle
+9. Move ball
+10. Add wall boundaries
+11. Increase the score when the bricks are broken
+12. Lose - redraw the bricks, reset the score 
